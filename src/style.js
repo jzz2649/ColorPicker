@@ -232,6 +232,8 @@ const ColorPickerStyle = `
 .${ColorPickerStylePrefix}-table {
     table-layout: fixed;
     width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 .${ColorPickerStylePrefix}-table-header {
     font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
