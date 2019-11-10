@@ -1,5 +1,5 @@
 # ColorPicker
-参考[office-ui-fabric-react]((https://www.runoob.com)) ColorPicker组件，因兴趣而编写的原生js版，请不要使用在生产上，仅供参考。
+参考[office-ui-fabric-react](https://www.runoob.com) ColorPicker组件，因兴趣而编写的原生js版，请不要使用在生产上，仅供参考。
 
 
 ## 提示
