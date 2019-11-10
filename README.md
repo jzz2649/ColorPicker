@@ -3,4 +3,4 @@
 
 
 ## 提示
-/src目录是实现的源码部分，index.html是使用的例子
+/src目录是实现的源码部分，index.html是使用的[例子](https://jzz2649.github.io/ColorPicker/)
