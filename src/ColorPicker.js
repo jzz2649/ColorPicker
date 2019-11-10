@@ -92,7 +92,9 @@ export default class ColorPicker {
         creEle(
           "table",
           {
-            className: `${ColorPickerStylePrefix}-table`
+            className: `${ColorPickerStylePrefix}-table`,
+            cellPadding: 0,
+            cellSpacing: 0
           },
           [
             creEle(
